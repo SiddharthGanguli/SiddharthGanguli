@@ -1,3 +1,4 @@
+![LinkedIn Background Banner](https://github.com/SiddharthGanguli/SiddharthGanguli/blob/main/Siddhartha%20Ganguli.png)
 <h1>Hi 👋, I'm Siddhartha Ganguli</h1>
 <p>I'm an <strong>AI/ML enthusiast</strong> specializing in <strong>Embedded Machine Learning</strong>. Passionate about using intelligent systems to solve real-world problems!</p>
 
