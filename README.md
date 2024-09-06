@@ -35,9 +35,9 @@
 
 <h3>📫 Get in Touch</h3>
 <ul>
-  <li><strong>Email</strong>: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/your-github-username">your-github-username</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/your-linkedin-profile">Let's Connect</a></li>
+  <li><strong>Email</strong>: <a href="siddharthaganguli0093@gmail.com">siddharthaganguli0093@gmail.com</a></li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/SiddharthGanguli">your-github-username</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/siddhartha-ganguli-bbb63a294/">Let's collaborate</a></li>
 </ul>
 
 <h2>🏆 GitHub Trophies</h2>
