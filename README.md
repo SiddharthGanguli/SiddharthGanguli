@@ -36,7 +36,7 @@
 <h3>📫 Get in Touch</h3>
 <ul>
   <li><strong>Email</strong>: <a href="siddharthaganguli0093@gmail.com">siddharthaganguli0093@gmail.com</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/SiddharthGanguli">your-github-username</a></li>
+  <li><strong>GitHub</strong>: <a href="https://github.com/SiddharthGanguli">Let's work together on cutting-edge tech</a></li>
   <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/siddhartha-ganguli-bbb63a294/">Let's collaborate</a></li>
 </ul>
 
