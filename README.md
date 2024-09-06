@@ -43,11 +43,5 @@
 </ul>
 
 <h2>📫 Get in Touch</h2>
-<ul>
-  <li><strong>Email</strong>: <a href="siddharthaganguli0093@gmail.com">siddharthaganguli0093@gmail.com</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/SiddharthGanguli">Siddhartha ganguli</a></li>
-  <li><strong>LinkedIn</strong>: <a href="siddharthaganguli">Siddhartha Ganguli</a></li>
-</ul>
-
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=siddharthganguli"alt="siddharthganguli"&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
