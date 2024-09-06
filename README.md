@@ -22,13 +22,13 @@
 
 <h3>🛠️ Skills & Tools</h3>
 <ul>
-  <li><strong>Programming Languages</strong>: Python, C++ (add more if needed)</li>
-  <li><strong>Frameworks</strong>: TensorFlow, PyTorch (add any others)</li>
-  <li><strong>Tools</strong>: Git, GitHub (mention others like hardware tools or IDEs)</li>
+  <li><strong>Programming Languages</strong>: Python, C, C++, SQL</li>
+  <li><strong>Frameworks</strong>: TensorFlow, PyTorch, Scikit-learn, </li>
+<li><strong>Tools</strong>: Git, GitHub, Notion, Arduino IDE, Figma</li>
 </ul>
 
 <h3>🏆 Achievements</h3>
-<p>(Add a list of certificates, awards, or key accomplishments if you have them, or leave this for now)</p>
+<p> list of certificates</p>
 
 <h3>🌱 Learning Goals</h3>
 <p>Currently diving deeper into <strong>embedded AI systems</strong> and expanding knowledge in <strong>Machine Learning</strong> frameworks and tools like TensorFlow Lite and PyTorch.</p>
