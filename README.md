@@ -24,7 +24,7 @@
 <h3>🛠️ Skills & Tools</h3>
 <ul>
   <li><strong>Programming Languages</strong>: Python, C, C++, SQL</li>
-  <li><strong>Frameworks</strong>: TensorFlow, PyTorch, Scikit-learn, </li>
+  <li><strong>Frameworks</strong>: TensorFlow, PyTorch, Scikit-learn, TinyML</li>
 <li><strong>Tools</strong>: Git, GitHub, Notion, Arduino IDE, Figma</li>
 </ul>
 
