@@ -29,7 +29,7 @@
 </ul>
 
 <h3>🏆 Achievements</h3>
-<p> list of certificates</p>
+<p>Ahh, once I've collected all the certificates and am satisfied with the total count, I'll post them</p>
 
 <h3>🌱 Learning Goals</h3>
 <p>Currently diving deeper into <strong>embedded AI systems</strong> and expanding knowledge in <strong>Machine Learning</strong> frameworks and tools like TensorFlow Lite and PyTorch.</p>
