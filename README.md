@@ -26,6 +26,7 @@
   <li><strong>Programming Languages</strong>: Python, C, C++, SQL</li>
   <li><strong>Frameworks</strong>: TensorFlow, PyTorch, Scikit-learn, TinyML</li>
 <li><strong>Tools</strong>: Git, GitHub, Notion, Arduino IDE, Figma</li>
+<li><strong>Database</strong>: SQl,MongoDB,Firebase(No-SQL)</li>
 </ul>
 
 <h3>🏆 Achievements</h3>
